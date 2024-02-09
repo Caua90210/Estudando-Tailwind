@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/76708357/162738129-a9aa3391-385f-403d-8f36-6324549ff735.png" alt="Tailwind CSS: estilizando páginas com classes utilitárias"> </p>
+
 
 <hr>
 
